@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\klime\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\contentFiles\\any\\netstandard2.1\\wwwroot\\ChartJsBlazorInterop.js",
+      "PackagePath": "staticwebassets\\ChartJsBlazorInterop.js"
+    },
+    {
+      "Id": "C:\\Users\\klime\\Documents\\6. Sixth semester\\Napredni-Bazi-Web\\Klimentina Kovancalieva 17682\\ElasticWeb\\ElasticWeb\\ElasticWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ElasticWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ElasticWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\klime\\Documents\\6. Sixth semester\\Napredni-Bazi-Web\\Klimentina Kovancalieva 17682\\ElasticWeb\\ElasticWeb\\ElasticWeb\\wwwroot\\.DS_Store",
+      "PackagePath": "staticwebassets\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\klime\\Documents\\6. Sixth semester\\Napredni-Bazi-Web\\Klimentina Kovancalieva 17682\\ElasticWeb\\ElasticWeb\\ElasticWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\klime\\Documents\\6. Sixth semester\\Napredni-Bazi-Web\\Klimentina Kovancalieva 17682\\ElasticWeb\\ElasticWeb\\ElasticWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\klime\\Documents\\6. Sixth semester\\Napredni-Bazi-Web\\Klimentina Kovancalieva 17682\\ElasticWeb\\ElasticWeb\\ElasticWeb\\wwwroot\\images\\LogoMovies.png",
+      "PackagePath": "staticwebassets\\images\\LogoMovies.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ElasticWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ElasticWeb.props",
+      "PackagePath": "build\\ElasticWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ElasticWeb.props",
+      "PackagePath": "buildMultiTargeting\\ElasticWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ElasticWeb.props",
+      "PackagePath": "buildTransitive\\ElasticWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

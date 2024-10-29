@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{1B73F946-3513-4A7C-BE94-E90ECD07C101}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ElasticWeb/Services/ElasticService.cs">
+    <Files>
+      <File FileName="ElasticWeb/Pages/MovieDetails.razor" />
+      <File FileName="ElasticWeb/Pages/Top50AllTime.razor" />
+      <File FileName="ElasticWeb/Pages/Top50ByRevenue.razor" />
+      <File FileName="ElasticWeb/Pages/MovieSearch.razor" />
+      <File FileName="ElasticWeb/Services/ElasticService.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ElasticWeb" expanded="True">
+            <Node name="ElasticWeb" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ElasticWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

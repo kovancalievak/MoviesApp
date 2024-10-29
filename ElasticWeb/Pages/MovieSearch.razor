@@ -1,0 +1,130 @@
+﻿@page "/movie-search"
+
+@inject IElasticService elasticService
+@inject NavigationManager navMan
+
+<PageTitle>Movie Search</PageTitle>
+
+<MudText Typo="Typo.h3">Movie Search</MudText>
+
+<MudGrid>
+    <MudItem xs="12" Class="pa-4">
+        <EditForm Model="@srchModel" OnValidSubmit="SearchMovies">
+            <DataAnnotationsValidator />
+            <MudGrid>
+                <MudItem xs="12" md="4">
+                    <MudTextField Label="Movie Name" @bind-Value="srchModel.MovieName" For="@(() => srchModel.MovieName)" />
+                </MudItem>
+                
+                <MudItem xs="12" md="4">
+                    <MudSelect T="string" Label="Genre" Variant="Variant.Text" @bind-Value="srchModel.GenreName">
+                        <MudSelectItem Value="@("Action")" />
+                        <MudSelectItem Value="@("Adventure")" />
+                        <MudSelectItem Value="@("Animation")" />
+                        <MudSelectItem Value="@("Comedy")" />
+                        <MudSelectItem Value="@("Crime")" />
+                        <MudSelectItem Value="@("Documentary")" />
+                        <MudSelectItem Value="@("Drama")" />
+                        <MudSelectItem Value="@("Family")" />
+                        <MudSelectItem Value="@("Fantasy")" />
+                        <MudSelectItem Value="@("History")" />
+                        <MudSelectItem Value="@("Horror")" />
+                        <MudSelectItem Value="@("Music")" />
+                        <MudSelectItem Value="@("Mystery")" />
+                        <MudSelectItem Value="@("Romance")" />
+                        <MudSelectItem Value="@("Science Fiction")" />
+                        <MudSelectItem Value="@("TV Movie")" />
+                        <MudSelectItem Value="@("Thriller")" />
+                        <MudSelectItem Value="@("War")" />
+                        <MudSelectItem Value="@("Western")" />
+                    </MudSelect>
+                </MudItem>
+                <MudItem xs="12" md="8">
+                    <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" Color="Color.Dark" FullWidth="true">Search</MudButton>
+                </MudItem>
+                <MudItem xs="12" md="4">
+                    <MudButton ButtonType="ButtonType.Reset" Variant="Variant.Filled" Color="Color.Surface" FullWidth="true" OnClick="CleanTable">Clear All</MudButton>
+                </MudItem>
+            </MudGrid>
+        </EditForm>
+    </MudItem>
+    <MudItem xs="12" Class="pa-4">
+        <MudTable @ref="_table" Items="@moviesList" Hover="true" Striped="true" Outlined="true"
+                  RowsPerPage="15" Loading="@IsProcessing" LoadingProgressColor="Color.Primary" OnRowClick="RowClickEvent" T="MovieSearchResult">
+            <HeaderContent>
+                <MudTh>Poster</MudTh>
+                <MudTh>
+                    <MudTableSortLabel SortBy="new Func<MovieSearchResult, object>(x => x.Title)">Name of the Movie</MudTableSortLabel>
+                </MudTh>
+                <MudTh>
+                    <MudTableSortLabel SortBy="new Func<MovieSearchResult, object>(x => x.ReleaseDate)">Year</MudTableSortLabel>
+                </MudTh>
+                <MudTh>Genre</MudTh>
+                <MudTh>Actors</MudTh>
+                <MudTh>
+                    <MudTableSortLabel SortBy="new Func<MovieSearchResult, object>(x => x.VoteAverage)">Rating</MudTableSortLabel>
+                </MudTh>
+            </HeaderContent>
+            <NoRecordsContent>
+                <MudText Typo="Typo.body1" Class="my-2">No Data</MudText>
+            </NoRecordsContent>
+            <RowTemplate>
+                <MudTd>
+                    <MudPaper Width="100px" Elevation="0">
+                        <MudImage Fluid="true" ObjectFit="ObjectFit.Contain" Class="rounded-lg" Src="@(context.PosterPath)" />
+                    </MudPaper>
+                </MudTd>
+                <MudTd>
+                    <MudText Typo="Typo.h5">@context.Title</MudText>
+                </MudTd>
+                <MudTd>
+                    <MudText Typo="Typo.h6">@context.ReleaseDate.ToString("yyyy")</MudText>
+                </MudTd>
+                <MudTd>@context.Genres</MudTd>
+                <MudTd>@context.Cast</MudTd>
+                <MudTd>
+                    <MudText Typo="Typo.h5">@context.VoteAverage</MudText>
+                </MudTd>
+            </RowTemplate>
+            <PagerContent>
+                @if (moviesList.Count() > _table.RowsPerPage)
+                {
+                    <div class="d-flex flex-column align-center py-2">
+                        <MudPagination SelectedChanged="PageChanged" Size="Size.Small" Variant="Variant.Filled" Color="Color.Primary" Count="@((_table.GetFilteredItemsCount() + _table.RowsPerPage - 1) / _table.RowsPerPage)" />
+                    </div>
+                }
+            </PagerContent>
+        </MudTable>
+    </MudItem>
+</MudGrid>
+
+@code {
+    private bool IsProcessing { get; set; } = false;
+    private IEnumerable<MovieSearchResult> moviesList { get; set; } = new List<MovieSearchResult>();
+    private MovieSearchFilter srchModel = new MovieSearchFilter();
+    private MudTable<MovieSearchResult> _table;
+
+
+    private async Task SearchMovies()
+    {
+        IsProcessing = true;
+        moviesList = await Task.Run(() => elasticService.SearchMovies(srchModel));
+        IsProcessing = false;
+    }
+
+    private void PageChanged(int i)
+    {
+        _table.NavigateTo(i - 1);
+    }
+
+    private void CleanTable()
+    {
+        moviesList = new List<MovieSearchResult>();
+    }
+
+    private void RowClickEvent(TableRowClickEventArgs<MovieSearchResult> tableRowClickEventArgs)
+    {
+        navMan.NavigateTo($"/movie-details/{tableRowClickEventArgs.Item.Id.ToString()}");
+    }
+}
+

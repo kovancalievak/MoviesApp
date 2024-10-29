@@ -1,0 +1,175 @@
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/appsettings.Development.json
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/appsettings.json
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/ElasticWeb.staticwebassets.runtime.json
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/ElasticWeb
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/ElasticWeb.deps.json
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/ElasticWeb.runtimeconfig.json
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/ElasticWeb.dll
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/ElasticWeb.pdb
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/ChartJs.Blazor.dll
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/Elasticsearch.Net.dll
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/Microsoft.AspNetCore.Authorization.dll
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/Microsoft.AspNetCore.Components.dll
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/Microsoft.AspNetCore.Components.Forms.dll
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/Microsoft.AspNetCore.Components.Web.dll
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/Microsoft.AspNetCore.Metadata.dll
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/Microsoft.JSInterop.dll
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/MudBlazor.dll
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/Nest.dll
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/bin/Debug/net6.0/System.IO.Pipelines.dll
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/ElasticWeb.csproj.AssemblyReference.cache
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/ElasticWeb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/ElasticWeb.AssemblyInfoInputs.cache
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/ElasticWeb.AssemblyInfo.cs
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/ElasticWeb.csproj.CoreCompileInputs.cache
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/ElasticWeb.MvcApplicationPartsAssemblyInfo.cache
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/ElasticWeb.RazorAssemblyInfo.cache
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/ElasticWeb.RazorAssemblyInfo.cs
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/staticwebassets.build.json
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/staticwebassets.development.json
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/scopedcss/bundle/ElasticWeb.styles.css
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/scopedcss/projectbundle/ElasticWeb.bundle.scp.css
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/ElasticWeb.csproj.CopyComplete
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/ElasticWeb.dll
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/refint/ElasticWeb.dll
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/ElasticWeb.pdb
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/ElasticWeb.genruntimeconfig.cache
+/Users/vlado/Projects/ElasticWeb/ElasticWeb/obj/Debug/net6.0/ref/ElasticWeb.dll
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ElasticWeb.staticwebassets.runtime.json
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ElasticWeb.exe
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ElasticWeb.deps.json
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ElasticWeb.runtimeconfig.json
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ElasticWeb.dll
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ElasticWeb.pdb
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ChartJs.Blazor.dll
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Nest.dll
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.csproj.AssemblyReference.cache
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.AssemblyInfoInputs.cache
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.AssemblyInfo.cs
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.csproj.CoreCompileInputs.cache
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.RazorAssemblyInfo.cache
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.RazorAssemblyInfo.cs
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets\msbuild.ElasticWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ElasticWeb.props
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ElasticWeb.props
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ElasticWeb.props
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\scopedcss\bundle\ElasticWeb.styles.css
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\scopedcss\projectbundle\ElasticWeb.bundle.scp.css
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.csproj.CopyComplete
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.dll
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\refint\ElasticWeb.dll
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.pdb
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.genruntimeconfig.cache
+C:\Users\klime\Downloads\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ref\ElasticWeb.dll
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ElasticWeb.staticwebassets.runtime.json
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ElasticWeb.exe
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ElasticWeb.deps.json
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ElasticWeb.runtimeconfig.json
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ElasticWeb.dll
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ElasticWeb.pdb
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ChartJs.Blazor.dll
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Nest.dll
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.csproj.AssemblyReference.cache
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.AssemblyInfoInputs.cache
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.AssemblyInfo.cs
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.csproj.CoreCompileInputs.cache
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.RazorAssemblyInfo.cache
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.RazorAssemblyInfo.cs
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets\msbuild.ElasticWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ElasticWeb.props
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ElasticWeb.props
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ElasticWeb.props
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\scopedcss\bundle\ElasticWeb.styles.css
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\scopedcss\projectbundle\ElasticWeb.bundle.scp.css
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.csproj.CopyComplete
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.dll
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\refint\ElasticWeb.dll
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.pdb
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.genruntimeconfig.cache
+C:\Users\klime\Desktop\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ref\ElasticWeb.dll
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ElasticWeb.staticwebassets.runtime.json
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ElasticWeb.exe
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ElasticWeb.deps.json
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ElasticWeb.runtimeconfig.json
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ElasticWeb.dll
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ElasticWeb.pdb
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\ChartJs.Blazor.dll
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Nest.dll
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.csproj.AssemblyReference.cache
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.AssemblyInfoInputs.cache
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.AssemblyInfo.cs
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.csproj.CoreCompileInputs.cache
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.RazorAssemblyInfo.cache
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.RazorAssemblyInfo.cs
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets\msbuild.ElasticWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ElasticWeb.props
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ElasticWeb.props
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ElasticWeb.props
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\scopedcss\bundle\ElasticWeb.styles.css
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\scopedcss\projectbundle\ElasticWeb.bundle.scp.css
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.csproj.CopyComplete
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.dll
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\refint\ElasticWeb.dll
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.pdb
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ElasticWeb.genruntimeconfig.cache
+C:\Users\klime\Documents\6. Sixth semester\Napredni-Bazi-Web\Klimentina Kovancalieva 17682\ElasticWeb\ElasticWeb\ElasticWeb\obj\Debug\net6.0\ref\ElasticWeb.dll

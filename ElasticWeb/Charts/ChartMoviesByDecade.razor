@@ -1,0 +1,97 @@
+﻿@using ChartJs.Blazor.BarChart
+@using ChartJs.Blazor.BarChart.Axes
+@using ElasticWeb.Extension
+
+@inject IElasticService elasticService
+
+@if (buckets.Any() && buckets != null)
+{
+<MudPaper Square="true" Outlined="true" Height="550px" Style="position: relative;">
+    <Chart Config="_configMoviesByDecade"></Chart>
+</MudPaper>
+}
+else
+{
+    <MudPaper Square="true" Outlined="true" Height="550px" Style="position: relative;">
+        <MudOverlay Visible="true" DarkBackground="false" Absolute="true">
+            <MudProgressCircular Color="Color.Primary" Indeterminate="true" />
+        </MudOverlay>
+    </MudPaper>
+}
+
+
+
+@code {
+    private BarConfig _configMoviesByDecade;
+    public IEnumerable<ChartKeyValue> buckets { get; set; } = new List<ChartKeyValue>();
+
+    protected override void OnInitialized()
+    {
+        LoadMoviesByDecade();
+    }
+
+    private void LoadMoviesByDecade()
+    {
+        buckets = elasticService.GetMoviesByDecade();
+
+        var mvs = new List<long>();
+        var lbl = new List<string>();
+
+        foreach (var b in buckets)
+        {
+            mvs.Add(b.Value);
+            lbl.Add(b.Key);
+        }
+
+        _configMoviesByDecade = new BarConfig
+        {
+            Options = new BarOptions
+            {
+                MaintainAspectRatio = false,
+                Title = new OptionsTitle
+                {
+                    Display = true,
+                    Text = "Number of Movies by Decade"
+                },
+                Scales = new BarScales
+                {
+                    XAxes = new List<CartesianAxis>
+                {
+                        new BarCategoryAxis
+                        {
+                            Stacked = true,
+                            GridLines = new GridLines
+                            {
+                                DrawOnChartArea = false
+                            }
+                        }
+                    },
+                    YAxes = new List<CartesianAxis>
+                {
+                        new BarLinearCartesianAxis
+                        {
+                            Stacked = true,
+                            GridLines = new GridLines
+                            {
+                                DrawOnChartArea = false
+                            }
+                        }
+                    }
+                }
+            }
+        };
+
+        IDataset<long> dsMovies = new BarDataset<long>(mvs)
+        {
+                Label = "Num od Movies",
+                BackgroundColor = "rgba(0, 0, 204, 0.7)",
+            HoverBackgroundColor = "rgba(153, 153, 255, 0.7)",
+            HoverBorderWidth = 2,
+            HoverBorderColor = "lightgrey"
+        };
+
+        _configMoviesByDecade.Data.Datasets.Add(dsMovies);
+        _configMoviesByDecade.Data.Labels.AddRange(lbl);
+    }
+}
+
